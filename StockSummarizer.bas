@@ -82,8 +82,6 @@ Sub Main()
                     Set firstDaily = New StockDaily
                     Set lastDaily = New StockDaily
                     
-            Else
-                dailys.Add Item:=daily
             End If
                
         Next y
